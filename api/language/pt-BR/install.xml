@@ -2,7 +2,7 @@
 <extension client="api" type="language" method="upgrade">
 	<name>Brazilian Portuguese (pt-BR)</name>
 	<tag>pt-BR</tag>
-	<version>5.0.0</version>
+	<version>5.0.1</version>
 	<creationDate>2023-09-22</creationDate>
 	<author>Uziel Almeida Oliveira by Pontomega</author>
 	<authorEmail>contato@pontomega.com.br</authorEmail>
