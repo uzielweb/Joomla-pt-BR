@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="package" method="upgrade">
+	<name>Joomla 5 - Brazilian Portuguese  - pt-BR</name>
+	<packagename>pt-BR</packagename>
+	<version>5.0.0</version>
+	<creationDate>2023-09-22</creationDate>
+	<author>Uziel Almeida Oliveira by Pontomega</author>
+	<authorEmail>contato@pontomega.com.br</authorEmail>
+	<authorUrl>https://www.pontomega.com.br</authorUrl>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url></url>
+	<packager></packager>
+	<packagerurl></packagerurl>
+	<description><![CDATA[Master core pack - 5.0.0 - Joomla 5 - Brazilian Portuguese - pt-BR]]></description>
+	<blockChildUninstall>true</blockChildUninstall>
+	<files>
+		<folder type="language" client="site" id="pt-BR">language/pt-BR</folder>
+		<folder type="language" client="administrator" id="pt-BR">administrator/language/pt-BR</folder>
+		<folder type="language" client="api" id="pt-BR">api/language/pt-BR</folder>
+	</files>
+	<updateservers>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_5.xml</server>
+	</updateservers>
+</extension>
