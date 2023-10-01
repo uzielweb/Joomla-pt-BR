@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<extension client="administrator" type="language" method="upgrade">
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" client="administrator" type="language" method="upgrade">
 	<name>Brazilian Portuguese (pt-BR)</name>
 	<tag>pt-BR</tag>
-	<version>5.0.1</version>
-	<creationDate>2023-09-22</creationDate>
-	<author>Uziel Almeida Oliveira by Pontomega</author>
-	<authorEmail>contato@pontomega.com.br</authorEmail>
-	<authorUrl>https://www.pontomega.com.br</authorUrl>
-	<copyright>Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.</copyright>
-	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<description>pt-BR - Administration language</description>
+	<version>3.9.21.1</version>
+	<creationDate>Setembro de 2020</creationDate>
+	<author>Projeto Joomla!</author>
+	<authorEmail>helvecio.dasilva@community.joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005-2020 Open Source Matters. Todos os direitos reservados.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Brazilian Portuguese Administrator language</description>
 	<files>
 		<folder>/</folder>
 		<filename file="meta">install.xml</filename>
 	</files>
-	<params />
+	<params/>
 </extension>
