@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- $Id: install.xml -->
+<install version="1.5" method="upgrade" client="both" type="language">
+    <name>Português(Brasil)</name>
+    <tag>pt-BR</tag>
+    <version>1.5.17</version>
+    <creationDate>2010-05-11</creationDate>
+    <author>Joomla! Brasil</author>
+    <authorEmail>traducao@joomla.com.br</authorEmail>
+    <authorUrl>www.joomla.com.br</authorUrl>
+    <copyright>Copyright(C) 2005 - 2010 Open Source Matters. All rights reserved.</copyright>
+    <copyright>Copyright (C) Translation 2005 - 2010 Joomla! Brasil. All rights reserved.</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description><![CDATA[Arquivos de Idioma em Português Brasileiro para Joomla! 1.5<br/>
+				 Copyrights: 2005 - 2010 Joomla! Brasil.<br/>
+				 Todos os direitos reservados.<br/>
+				 <a href="http://www.joomla.com.br" target="_blank">Joomla! Brasil</a> é o único detentor dos copyrights desta tradução.<br/>
+				 De acordo com termo de licenciamento de <a href="http://www.opensourcematters.org" target="_blank">OpenSourceMatters</a> e <a href="http://www.joomla.org" target="_blank">Joomla!</a>, a partir da versão 1.5 do Joomla!, todos os arquivos de idioma devem ser licenciados sob a <a href="http://www.gnu.org/licenses/gpl-2.0.html" target="_blank"> licença GNU/GPL (v.2.0)</a>. Esta tradução está licenciada sob esta licença. Se você encontrar algum erro de digitação, traduções incorretas ou deseja sugerir melhorias, entre em contato com o <a href="mailto:traducao@joomla.com.br">coordenador</a> da tradução.<br/><br/>]]>
+    </description>
+    <administration>
+        <files folder="admin">
+			<filename>pt-BR.com_admin.ini</filename>
+			<filename>pt-BR.com_banners.ini</filename>
+			<filename>pt-BR.com_banners.menu.ini</filename>
+			<filename>pt-BR.com_cache.ini</filename>
+			<filename>pt-BR.com_categories.ini</filename>
+			<filename>pt-BR.com_checkin.ini</filename>
+			<filename>pt-BR.com_config.ini</filename>
+			<filename>pt-BR.com_contact.ini</filename>
+			<filename>pt-BR.com_contact.menu.ini</filename>
+			<filename>pt-BR.com_content.ini</filename>
+			<filename>pt-BR.com_cpanel.ini</filename>
+			<filename>pt-BR.com_frontpage.ini</filename>
+			<filename>pt-BR.com_installer.ini</filename>
+			<filename>pt-BR.com_languages.ini</filename>
+			<filename>pt-BR.com_login.ini</filename>
+			<filename>pt-BR.com_massmail.ini</filename>
+			<filename>pt-BR.com_media.ini</filename>
+			<filename>pt-BR.com_menus.ini</filename>
+			<filename>pt-BR.com_menus.menu.ini</filename>
+			<filename>pt-BR.com_messages.ini</filename>
+			<filename>pt-BR.com_modules.ini</filename>
+			<filename>pt-BR.com_newsfeeds.ini</filename>
+			<filename>pt-BR.com_newsfeeds.menu.ini</filename>
+			<filename>pt-BR.com_plugins.ini</filename>
+			<filename>pt-BR.com_poll.ini</filename>
+			<filename>pt-BR.com_poll.menu.ini</filename>
+			<filename>pt-BR.com_search.ini</filename>
+			<filename>pt-BR.com_search.menu.ini</filename>
+			<filename>pt-BR.com_sections.ini</filename>
+			<filename>pt-BR.com_templates.ini</filename>
+			<filename>pt-BR.com_trash.ini</filename>
+			<filename>pt-BR.com_user.ini</filename>
+			<filename>pt-BR.com_users.ini</filename>
+			<filename>pt-BR.com_weblinks.ini</filename>
+			<filename>pt-BR.com_weblinks.menu.ini</filename>
+			<filename>pt-BR.com_wrapper.ini</filename>
+			<filename>pt-BR.ini</filename>
+			<filename>pt-BR.mod_components.ini</filename>
+			<filename>pt-BR.mod_custom.ini</filename>
+			<filename>pt-BR.mod_feed.ini</filename>
+			<filename>pt-BR.mod_footer.ini</filename>
+			<filename>pt-BR.mod_latest.ini</filename>
+			<filename>pt-BR.mod_logged.ini</filename>
+			<filename>pt-BR.mod_login.ini</filename>
+			<filename>pt-BR.mod_menu.ini</filename>
+			<filename>pt-BR.mod_online.ini</filename>
+			<filename>pt-BR.mod_popular.ini</filename>
+			<filename>pt-BR.mod_quickicon.ini</filename>
+			<filename>pt-BR.mod_stats.ini</filename>
+			<filename>pt-BR.mod_status.ini</filename>
+			<filename>pt-BR.mod_submenu.ini</filename>
+			<filename>pt-BR.mod_title.ini</filename>
+			<filename>pt-BR.mod_toolbar.ini</filename>
+			<filename>pt-BR.mod_unread.ini</filename>
+			<filename>pt-BR.plg_authentication_example.ini</filename>
+			<filename>pt-BR.plg_authentication_gmail.ini</filename>
+			<filename>pt-BR.plg_authentication_joomla.ini</filename>
+			<filename>pt-BR.plg_authentication_ldap.ini</filename>
+			<filename>pt-BR.plg_authentication_openid.ini</filename>
+			<filename>pt-BR.plg_content_code.ini</filename>
+			<filename>pt-BR.plg_content_emailcloak.ini</filename>
+			<filename>pt-BR.plg_content_geshi.ini</filename>
+			<filename>pt-BR.plg_content_image.ini</filename>
+			<filename>pt-BR.plg_content_loadmodule.ini</filename>
+			<filename>pt-BR.plg_content_pagebreak.ini</filename>
+			<filename>pt-BR.plg_content_pagenavigation.ini</filename>
+			<filename>pt-BR.plg_content_vote.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_image.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_pagebreak.ini</filename>
+			<filename>pt-BR.plg_editors-xtd_readmore.ini</filename>
+			<filename>pt-BR.plg_editors_none.ini</filename>
+			<filename>pt-BR.plg_editors_tinymce.ini</filename>
+			<filename>pt-BR.plg_editors_xstandard.ini</filename>
+			<filename>pt-BR.plg_search_categories.ini</filename>
+			<filename>pt-BR.plg_search_contacts.ini</filename>
+			<filename>pt-BR.plg_search_content.ini</filename>
+			<filename>pt-BR.plg_search_newsfeeds.ini</filename>
+			<filename>pt-BR.plg_search_sections.ini</filename>
+			<filename>pt-BR.plg_search_weblinks.ini</filename>
+			<filename>pt-BR.plg_system_backlink.ini</filename>
+			<filename>pt-BR.plg_system_cache.ini</filename>
+			<filename>pt-BR.plg_system_debug.ini</filename>
+			<filename>pt-BR.plg_system_legacy.ini</filename>
+			<filename>pt-BR.plg_system_sef.ini</filename>
+			<filename>pt-BR.plg_user_joomla.ini</filename>
+			<filename>pt-BR.plg_xmlrpc_blogger.ini</filename>
+			<filename>pt-BR.plg_xmlrpc_joomla.ini</filename>
+			<filename>pt-BR.tpl_beez.ini</filename>
+			<filename>pt-BR.tpl_ja_purity.ini</filename>
+			<filename>pt-BR.tpl_khepri.ini</filename>
+			<filename>pt-BR.tpl_rhuk_milkyway.ini</filename>
+			<filename>index.html</filename>
+			<filename file="meta">pt-BR.xml</filename>
+        </files>
+    </administration>    
+    <site>
+        <files folder="site">
+			<filename>pt-BR.com_banners.ini</filename>
+			<filename>pt-BR.com_contact.ini</filename>
+			<filename>pt-BR.com_content.ini</filename>
+			<filename>pt-BR.com_frontpage.ini</filename>
+			<filename>pt-BR.com_mailto.ini</filename>
+			<filename>pt-BR.com_media.ini</filename>
+			<filename>pt-BR.com_messages.ini</filename>
+			<filename>pt-BR.com_newsfeeds.ini</filename>
+			<filename>pt-BR.com_poll.ini</filename>
+			<filename>pt-BR.com_search.ini</filename>
+			<filename>pt-BR.com_user.ini</filename>
+			<filename>pt-BR.com_weblinks.ini</filename>
+			<filename>pt-BR.com_wrapper.ini</filename>
+			<filename>pt-BR.ignore.php</filename>
+			<filename>pt-BR.ini</filename>
+			<filename>pt-BR.mod_archive.ini</filename>
+			<filename>pt-BR.mod_banners.ini</filename>
+			<filename>pt-BR.mod_breadcrumbs.ini</filename>
+			<filename>pt-BR.mod_custom.ini</filename>
+			<filename>pt-BR.mod_feed.ini</filename>
+			<filename>pt-BR.mod_footer.ini</filename>
+			<filename>pt-BR.mod_latestnews.ini</filename>
+			<filename>pt-BR.mod_login.ini</filename>
+			<filename>pt-BR.mod_mainmenu.ini</filename>
+			<filename>pt-BR.mod_mostread.ini</filename>
+			<filename>pt-BR.mod_newsflash.ini</filename>
+			<filename>pt-BR.mod_online.ini</filename>
+			<filename>pt-BR.mod_poll.ini</filename>
+			<filename>pt-BR.mod_random_image.ini</filename>
+			<filename>pt-BR.mod_related_items.ini</filename>
+			<filename>pt-BR.mod_search.ini</filename>
+			<filename>pt-BR.mod_sections.ini</filename>
+			<filename>pt-BR.mod_stats.ini</filename>
+			<filename>pt-BR.mod_syndicate.ini</filename>
+			<filename>pt-BR.mod_whosonline.ini</filename>
+			<filename>pt-BR.mod_wrapper.ini</filename>
+			<filename>pt-BR.plg_content_pagebreak.ini</filename>
+			<filename>pt-BR.plg_content_vote.ini</filename>
+			<filename>pt-BR.plg_search_categories.ini</filename>
+			<filename>pt-BR.plg_search_contacts.ini</filename>
+			<filename>pt-BR.plg_search_content.ini</filename>
+			<filename>pt-BR.plg_search_newsfeeds.ini</filename>
+			<filename>pt-BR.plg_search_sections.ini</filename>
+			<filename>pt-BR.plg_search_weblinks.ini</filename>
+			<filename>pt-BR.plg_system_debug.ini</filename>
+			<filename>pt-BR.tpl_beez.ini</filename>
+			<filename>pt-BR.tpl_ja_purity.ini</filename>
+			<filename>pt-BR.tpl_rhuk_milkyway.ini</filename>
+			<filename>index.html</filename>
+			<filename file="meta">pt-BR.xml</filename>
+        </files>
+    </site>
+    <params />
+</install>
