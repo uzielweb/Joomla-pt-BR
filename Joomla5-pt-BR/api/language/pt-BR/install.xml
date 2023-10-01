@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension client="api" type="language" method="upgrade">
+	<name>Brazilian Portuguese (pt-BR)</name>
+	<tag>pt-BR</tag>
+	<version>5.0.1</version>
+	<creationDate>2023-09-22</creationDate>
+	<author>Uziel Almeida Oliveira by Pontomega</author>
+	<authorEmail>contato@pontomega.com.br</authorEmail>
+	<authorUrl>https://www.pontomega.com.br</authorUrl>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>pt-BR - api language</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params />
+</extension>
