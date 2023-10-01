@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension type="package" method="upgrade">
-	<name>Joomla 5 - Brazilian Portuguese  - pt-BR</name>
+<extension type="package" version="3.9" method="upgrade">
+	<name>Brazilian Portuguese (pt-BR) Language Pack</name>
 	<packagename>pt-BR</packagename>
-	<version>5.0.1</version>
-	<creationDate>2023-09-22</creationDate>
-	<author>Uziel Almeida Oliveira by Pontomega</author>
-	<authorEmail>contato@pontomega.com.br</authorEmail>
-	<authorUrl>https://www.pontomega.com.br</authorUrl>
-	<copyright>Copyright (C) 2005 - 2020 Open Source Matters, Inc. All rights reserved.</copyright>
-	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<url></url>
-	<packager></packager>
-	<packagerurl></packagerurl>
-	<description><![CDATA[Master core pack - 5.0.1 - Joomla 5 - Brazilian Portuguese - pt-BR]]></description>
+	<version>3.9.21.1</version>
+	<creationDate>Setembro de 2020</creationDate>
+	<author>Projeto Joomla!</author>
+	<authorEmail>helvecio.dasilva@community.joomla.org</authorEmail>
+	<authorUrl>www.joomla.org</authorUrl>
+	<copyright>Copyright (C) 2005 - 2020 Open Source Matters, Inc. Todos os direitos reservados.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url>https://github.com/joomla/joomla-cms</url>
+	<packager>Equipe de Tradução Português do Brasil</packager>
+	<packagerurl>www.joomla.org</packagerurl>
+	<description><![CDATA[<div style="text-align: left;">
+ <h2>Tradução Português Brasileiro (pt-BR) para Joomla! 3.9.21 instalada com sucesso!</h2>
+ <h3>Versão 3.9.21.1</h3>
+ <p>Por favor, informe qualquer problema ou assunto relacionado encontrado, na página <a href="https://www.facebook.com/groups/traduzjoomla/" target="_blank">Grupo Traduções Joomla pt-BR</a> no Facebook.</p>
+ <p>Traduzido pela <em>Equipe de Tradução Português Brasileiro</em>.</p>
+</div>]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="pt-BR">language/pt-BR</folder>
 		<folder type="language" client="administrator" id="pt-BR">administrator/language/pt-BR</folder>
-		<folder type="language" client="api" id="pt-BR">api/language/pt-BR</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_5.xml</server>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">
+			https://update.joomla.org/language/translationlist_3.xml
+		</server>
 	</updateservers>
 </extension>
