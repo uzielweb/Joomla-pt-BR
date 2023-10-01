@@ -1,0 +1,1 @@
+Joomla! 4.0.3 Portuguese, Brazil pt-BR Language Pack (v1) 
