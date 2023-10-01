@@ -1,2 +1,2 @@
 # Joomla-pt-BR
-Joomla pt-BR Traduzido Melhor. Joomla pt-BR Translated Better.
+Joomla pt-BR 1.0.15 - Uziel via Ponto Mega
