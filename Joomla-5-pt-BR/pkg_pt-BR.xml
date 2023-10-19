@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>Joomla 5 - Brazilian Portuguese  - pt-BR</name>
 	<packagename>pt-BR</packagename>
-	<version>5.0.1</version>
+	<version>5.0.0</version>
 	<creationDate>2023-09-22</creationDate>
 	<author>Uziel Almeida Oliveira by Pontomega</author>
 	<authorEmail>contato@pontomega.com.br</authorEmail>
@@ -12,7 +12,7 @@
 	<url></url>
 	<packager></packager>
 	<packagerurl></packagerurl>
-	<description><![CDATA[Master core pack - 5.0.1 - Joomla 5 - Brazilian Portuguese - pt-BR]]></description>
+	<description><![CDATA[Master core pack - 5.0.0 - Joomla 5 - Brazilian Portuguese - pt-BR]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="pt-BR">language/pt-BR</folder>
