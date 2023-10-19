@@ -1,12 +1,12 @@
 
 # Joomla-pt-BR
-Joomla pt-BR Traduzido Melhor. Joomla pt-BR Translated Better.
+Joomla pt-BR 
 ## Joomla 5
-Joomla! 4.0.3 Portuguese, Brazil pt-BR Language Pack (v1) 
+Joomla! 5.0.0 Portuguese, Brazil pt-BR Language Pack (personalizada)
 ## Joomla 4
-Joomla! 4.0.3 Portuguese, Brazil pt-BR Language Pack (v1) 
+Joomla! 4.0.3 Portuguese, Brazil pt-BR Language Pack
 ## Joomla 2.5
-Joomla! 2.5.9 Portuguese Brazil pt-BR Language Pack (v1) 
+Joomla! 2.5.9 Portuguese Brazil pt-BR Language Pack
 ## Joomla 1.5
 Joomla! 1.5.17 Portuguese, Brazil pt-BR Language Pack 
 ## Joomla 1.0
